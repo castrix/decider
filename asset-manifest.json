@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/decider/static/css/main.647bef3a.chunk.css",
-    "main.js": "/decider/static/js/main.6f1d4f37.chunk.js",
-    "main.js.map": "/decider/static/js/main.6f1d4f37.chunk.js.map",
+    "main.js": "/decider/static/js/main.aa11f968.chunk.js",
+    "main.js.map": "/decider/static/js/main.aa11f968.chunk.js.map",
     "runtime-main.js": "/decider/static/js/runtime-main.5656c1f6.js",
     "runtime-main.js.map": "/decider/static/js/runtime-main.5656c1f6.js.map",
-    "static/js/2.1cfb97bb.chunk.js": "/decider/static/js/2.1cfb97bb.chunk.js",
-    "static/js/2.1cfb97bb.chunk.js.map": "/decider/static/js/2.1cfb97bb.chunk.js.map",
+    "static/js/2.f978ae1f.chunk.js": "/decider/static/js/2.f978ae1f.chunk.js",
+    "static/js/2.f978ae1f.chunk.js.map": "/decider/static/js/2.f978ae1f.chunk.js.map",
     "index.html": "/decider/index.html",
     "static/css/main.647bef3a.chunk.css.map": "/decider/static/css/main.647bef3a.chunk.css.map",
-    "static/js/2.1cfb97bb.chunk.js.LICENSE.txt": "/decider/static/js/2.1cfb97bb.chunk.js.LICENSE.txt"
+    "static/js/2.f978ae1f.chunk.js.LICENSE.txt": "/decider/static/js/2.f978ae1f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5656c1f6.js",
-    "static/js/2.1cfb97bb.chunk.js",
+    "static/js/2.f978ae1f.chunk.js",
     "static/css/main.647bef3a.chunk.css",
-    "static/js/main.6f1d4f37.chunk.js"
+    "static/js/main.aa11f968.chunk.js"
   ]
 }
